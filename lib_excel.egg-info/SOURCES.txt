@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+lib_excel/Excel.py
+lib_excel/__init__.py
+lib_excel.egg-info/PKG-INFO
+lib_excel.egg-info/SOURCES.txt
+lib_excel.egg-info/dependency_links.txt
+lib_excel.egg-info/top_level.txt

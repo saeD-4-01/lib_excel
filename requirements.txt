@@ -1,0 +1,5 @@
+#lib_logger
+lib_input
+
+openpyxl
+tkinterdnd2

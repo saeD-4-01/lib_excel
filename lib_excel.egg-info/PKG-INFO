@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: lib_excel
+Version: 0.1
+Summary: This is a library specifically created for the SAE4.01.
+Home-page: 
+Author: Héloïse Rigaux
+Author-email: heloise.rigaux@etu.umontpellier.fr
+Keywords: pip
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: summary
