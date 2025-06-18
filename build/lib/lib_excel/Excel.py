@@ -26,7 +26,7 @@ class Excel:
         return tableau
 
     def get_headers(self, page=None, nb_column=None):
-        return self.table_convert(nb_line=1)
+        return self.get_line(1)
 
     def get_line(self, line, page=None, nb_column=None):
         sheet = self.open_page(page)
